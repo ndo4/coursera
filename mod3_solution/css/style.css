@@ -1,0 +1,17 @@
+#header-nav {
+	border-radius: 0;
+}
+
+.navbar-nav a {
+	text-align: center;
+}
+
+.menu-desc {
+	background-color: #eee;
+	padding: 15px;
+	height:1000px;
+}
+
+.row > [class*="col-"]{
+	padding-top: 3%;
+}
